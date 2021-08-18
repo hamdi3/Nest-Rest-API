@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript a TestProject as a Rest-API using MongooseDB.
 
 ## Installation
 
@@ -64,10 +64,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Hamdi Khalil](https://github.com/hamdi3)
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+This Project is free to use as it was an experiment (LICENSE).
